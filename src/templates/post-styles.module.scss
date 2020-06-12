@@ -1,0 +1,70 @@
+@mixin for-phone-only {
+    @media (max-width: 599px) { @content; }
+}
+@mixin for-tablet-portrait-up {
+    @media (min-width: 600px) { @content; }
+}
+
+@mixin for-tablet-landscape-up {
+    @media (min-width: 900px) { @content; }
+}
+
+@mixin for-desktop-up {
+    @media (min-width: 1200px) { @content; }
+}
+
+@mixin for-big-desktop-up {
+    @media (min-width: 1800px) { @content; }
+}
+
+.post{
+    background: #fdfdfd;
+    padding: 1em 1em;
+    border-radius: 5px;
+
+    @include for-tablet-portrait-up(){
+        padding: 2em 4em;
+    }
+}
+
+.heading{
+    color: #1f3c41;
+    margin-bottom: 10px;
+}
+
+.subheading{
+    font-weight: 300;
+    font-size: 1.5em;
+    color: #1f3c41;
+    margin-bottom: 1em;
+}
+
+.post-content{
+    color: #000;
+
+}
+
+.taglist{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 3em;
+
+    li{
+        display: inline-block;
+        padding: 8px 15px;
+        margin-right: 5px;
+        background: #1f3c41;
+        border-radius: 3px;
+        
+        
+        a{
+            color: #fff;
+            text-decoration: none;
+        }
+
+    }
+}
+
+// input[type="checkbox"]{
+//     opacity: 0;
+// }

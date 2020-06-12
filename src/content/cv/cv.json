@@ -1,0 +1,451 @@
+{
+    "firstName": "Tabassum",
+    "lastName": "Mohamed Fakier",
+    "taglineLine1": "UX/UI DEV & DESIGNER",
+    "taglineLine2": "FRONT-END, SOFTWARE ENG.",
+    "location": "Canberra, Australia",
+    "email": "tabs@ladyofcode.com",
+    "interests": "art and projects",
+    "website": "ladyofcode.com",
+    "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/ladyofcode/",
+        "instagram": "https://www.instagram.com/ladyofcode/",
+        "twitter": "https://twitter.com/ladyofcode",
+        "github": "https://github.com/ladyofcode"
+    },
+    "techSkills": [
+      {
+        "name": "Photoshop",
+        "category": "high"
+      },
+      {
+        "name": "Lightroom",
+        "category": "high"
+      },
+      {
+        "name": "HTML5",
+        "category": "high"
+      },
+      {
+        "name": "CSS3",
+        "category": "high"
+      },
+      {
+        "name": "Illustrator",
+        "category": "medium"
+      },
+      {
+        "name": "InDesign",
+        "category": "medium"
+      },
+      {
+        "name": "JavaScript",
+        "category": "medium"
+      },
+      {
+        "name": "AfterEffects",
+        "category": "medium"
+      },
+      {
+        "name": "Premiere",
+        "category": "medium"
+      },
+      {
+        "name": "SharePoint",
+        "category": "medium"
+      },
+      {
+        "name": "Justinmind/XD etc",
+        "category": "medium"
+      },
+      {
+        "name": "WordPress",
+        "category": "medium"
+      },
+      {
+        "name": "PHP",
+        "category": "medium"
+      },
+      {
+        "name": "Java",
+        "category": "medium"
+      },
+      {
+        "name": "MySQL",
+        "category": "medium"
+      },
+      {
+        "name": "phpBB",
+        "category": "medium"
+      },
+      {
+        "name": "Unity",
+        "category": "low"
+      },
+      {
+        "name": "Encore/Audacity",
+        "category": "low"
+      },
+      {
+        "name": "Nuke",
+        "category": "low"
+      },
+      {
+        "name": "Maya",
+        "category": "low"
+      },
+      {
+        "name": "Drupal",
+        "category": "low"
+      },
+      {
+        "name": "vBulletin",
+        "category": "low"
+      },
+      {
+        "name": "GravCMS",
+        "category": "low"
+      },
+      {
+        "name": "ActionScript",
+        "category": "low"
+      },
+      {
+        "name": "VB",
+        "category": "low"
+      },
+      {
+        "name": "Haskell",
+        "category": "low"
+      },
+      {
+        "name": "C, C++, OpenGL",
+        "category": "low"
+      },
+      {
+        "name": "Bootstrap",
+        "category": "low"
+      }
+    ],
+    "softSkills": [
+      {
+        "yearStarted": "2011",
+        "yearEnded": "",
+        "title": "Leadership",
+        "description": "Leadership training, managed and led three web teams and multiple projects, founded and Leader of Artifex ANU, founded DAG (MY)."
+      },
+      {
+        "yearStarted": "2012",
+        "yearEnded": "",
+        "title": "Teaching (Paid, unpaid)",
+        "description": "Graphic design, 3D, web scripting and design, photography, videography."
+      },
+      {
+        "yearStarted": "2010",
+        "yearEnded": "",
+        "title": "Communication & team",
+        "description": "Managed six different software teams working on local and global projects plus other non-programming related projects."
+      }
+    ],
+    "education": [
+      {
+        "yearStarted": "2017",
+        "yearEnded": "2018",
+        "title": "PhD",
+        "description": "Online learning (Self-terminated)",
+        "detail": "The ANU (AU)",
+        "slug": "/phisphere"
+      },
+      {
+        "yearStarted": "2015",
+        "yearEnded": "2016",
+        "title": "Master's",
+        "description": "Digital Arts (Specialisation VFX)",
+        "detail": "The ANU (AU)"
+      },
+      {
+        "yearStarted": "2014",
+        "yearEnded": "2014",
+        "title": "Graduate Certificate",
+        "description": "Digital Arts",
+        "detail": "The ANU (AU)"
+      },
+      {
+        "yearStarted": "2011",
+        "yearEnded": "2014",
+        "title": "BSc (Hons)",
+        "description": "Software Engineering",
+        "detail": "The University of Nottingham (MY)"
+      },
+      {
+        "yearStarted": "2014",
+        "yearEnded": "2014",
+        "title": "TEFL",
+        "description": "Teaching English as a Foreign Language (Distinction)",
+        "detail": "TEFLINK"
+      },
+      {
+        "yearStarted": "2010",
+        "yearEnded": "2011",
+        "title": "Foundation",
+        "description": "in Science",
+        "detail": "The University of Nottingham (MY)"
+      }
+    ],
+    "courses": [
+      {
+        "yearStarted": "2020",
+        "yearEnded": "Now",
+        "title": "React",
+        "description": "by Tyler McGinnis",
+        "slug": "/react-tyler-mcginnis"
+      },
+      {
+        "yearStarted": "2020",
+        "yearEnded": "2020",
+        "title": "The Complete Node.js Developer Course",
+        "description": "by Andrew Mead",
+        "slug": "/the-complete-nodejs-developer-course"
+      },
+      {
+        "yearStarted": "2020",
+        "yearEnded": "2020",
+        "title": "ES6 for Everyone",
+        "description": "by Wes Bos",
+        "slug": "/es6-for-everyone"
+      },
+      {
+        "yearStarted": "2018",
+        "yearEnded": "2019",
+        "title": "The Modern JavaScript Bootcamp",
+        "description": "by Andrew Mead",
+        "slug": "/the-modern-javascript-bootcamp"
+      },
+      {
+        "yearStarted": "2018",
+        "yearEnded": "2019",
+        "title": "Developing with Elixir",
+        "description": "by The Pragmatic Studio",
+        "slug": "/developing-with-elixir"
+      },
+      {
+        "yearStarted": "2017",
+        "yearEnded": "2017",
+        "title": "The Complete Elixir and Phoenix Bootcamp",
+        "description": "by Stephen Grider",
+        "slug": "/the-complete-elixir-and-phoenix-bootcamp"
+      },
+      {
+        "yearStarted": "2018",
+        "yearEnded": "2018",
+        "title": "Vice-Chancellor's Leadership Program",
+        "description": "by The ANU",
+        "slug": "/vice-chancellors-leadership-program"
+      },
+      {
+        "yearStarted": "2017",
+        "yearEnded": "2018",
+        "title": "The Marketing Seminar",
+        "description": "by Seth Godin",
+        "slug": "/the-marketing-seminar"
+      }
+    ],
+    "experience": [
+      {
+        "yearStarted": "2018",
+        "yearEnded": "",
+        "title": "ANU SoH - Rediscovering the Deep Human Past",
+        "description": "Designed and built website and interactive atlas.",
+        "role": "UX/UI Developer"
+      },
+      {
+        "yearStarted": "2017",
+        "yearEnded": "2018",
+        "title": "ANU Centre for Social Research & Methods",
+        "description": "Website design and maintenance, designed published material.",
+        "role": "Web/Comms Officer"
+      },
+      {
+        "yearStarted": "2017",
+        "yearEnded": "2017",
+        "title": "Oxide Interactive",
+        "description": "Drupal templating and theming for an Austroads/NTC project.",
+        "role": "Front-end Developer"
+      },
+      {
+        "yearStarted": "2016",
+        "yearEnded": "2016",
+        "title": "CycleLifeHQ",
+        "description": "Generated wireframes and UIs for Rails-based eCommerce CMS.",
+        "role": "Front-end + UX/UI Developer"
+      },
+      {
+        "yearStarted": "2015",
+        "yearEnded": "2015",
+        "title": "Intelledox Digital Business Transformation Centre",
+        "description": "Website design and maintenance, designed published material.",
+        "role": "Part-time assist."
+      },{
+        "yearStarted": "2012",
+        "yearEnded": "",
+        "title": "Artifex ANU, Digital Arts Guild",
+        "description": "Established and managed a 100-member organisation, set up a full studio, led projects, and taught over 30 classes in programming and art.",
+        "role": "Founder, Guild Leader"
+      },
+      {
+        "yearStarted": "2012",
+        "yearEnded": "",
+        "title": "Lady of Code",
+        "description": "Designed and built websites with databases for international clientele.",
+        "role": "Freelance website dev/graphic designer"
+      }
+    ],
+    "purposefulProjects" : [
+      {
+        "yearStarted": "2009",
+        "yearEnded": "",
+        "title": "[Phi] Sphere I - V",
+        "description": "Gaming community website iterations: webs.com > phpBB > vBulletin > Elgg > WordPress. Customised code & UI artwork.",
+        "detail": "phisphere.com"
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2014",
+        "title": "Final Year Project",
+        "description": "Social network website navigation and display alternatives. A research dissertation-style project on user interfaces and navigation habits.",
+        "detail": "Dissertation-style project"
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2014",
+        "title": "SA (University Site)",
+        "description": "Head of Web Team. Built and customised the Student Association site using Microsoft SharePoint.",
+        "detail": "previously sa.nottingham.edu.my"
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2014",
+        "title": "Wealth Insider Group (Commercial)",
+        "description": "Head of Web Team. Built and customised the Student Association site using Microsoft SharePoint.",
+        "detail": "prev. wealthinsidergroup.com.my"
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2014",
+        "title": "Financial Youth Intelligence",
+        "description": "Designed and developed website for FYI conference. Shot secondary video footage.",
+        "detail": "prev. financialyouthintelligence.com.my"
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2014",
+        "title": "Jonathan Quek's (Commercial)",
+        "description": "Blog: ‘Asia’s Youngest Wealth Coach'. Malware removal and aesthetics.",
+        "detail": "prev. jonathanquek.com"
+      },
+      {
+        "yearStarted": "2010",
+        "yearEnded": "2011",
+        "title": "CommTrack (Commercial) Insurance brokering database",
+        "description": "Insurance brokering database. Visual Basic and Microsoft Access. Generates customised reports and stores data based on user input.",
+        "detail": ""
+      }
+    ],
+    "personalProjects": [
+      {
+        "title": "Orient Partners",
+        "description": "Logo, business card, website design, WordPress site.",
+        "category": "designer"
+      },
+      {
+        "title": "24H",
+        "description": "Style guide, logo, website design, WordPress site.",
+        "category": "designer"
+      },
+      {
+        "title": "Colour Cloud 9",
+        "description": "Style guide, logo, website design.",
+        "category": "designer"
+      },
+      {
+        "title": "Lady of Code",
+        "description": "Personal website coded using bootstrap and GravCMS.",
+        "category": "designer"
+      },
+      {
+        "title": "Phisphere",
+        "description": "Gaming WordPress website with customised artwork.",
+        "category": "designer"
+      },
+      {
+        "title": "DAG/Artifex ANU",
+        "description": "Advertising media (posters, banners), photo and video work.",
+        "category": "designer"
+      },
+      {
+        "title": "The Mikado",
+        "description": "Programme and promotional poster for national play.",
+        "category": "designer"
+      },
+      {
+        "title": "Hovercraft 2014",
+        "description": "Advertising media (posters, banners, t-shirt) for a competition.",
+        "category": "designer"
+      },
+      {
+        "title": "Internet Illumination",
+        "description": "Infographic about social media.",
+        "category": "designer"
+      },
+      {
+        "title": "3D model viewer",
+        "description": "Wireframe, textures, shaders, lights, rotate, zoom, pan - OpenGL",
+        "category": "developer"
+      },
+      {
+        "title": "EnvisiCrop",
+        "description": "Crop data visualisation tool - PHP, HTML5, CSS, OpenStreetMaps",
+        "category": "developer"
+      },
+      {
+        "title": "Heathrow Sim.",
+        "description": "Discrete-event simulation and statistical analysis - AnyLogic, Java",
+        "category": "developer"
+      },
+      {
+        "title": "Concentration",
+        "description": "Matching card flipping memory game - Java",
+        "category": "developer"
+      },
+      {
+        "title": "PixelStix",
+        "description": "Image viewer and editor with filters - Java",
+        "category": "developer"
+      },
+      {
+        "title": "Maze Game",
+        "description": "Generate a random maze and valid pathway - C",
+        "category": "developer"
+      }
+    ],
+    "awards": [
+      {
+        "yearStarted": "2012",
+        "yearEnded": "2014",
+        "title": "Nottingham Advantage Award",
+        "description": "Extracurricular career and personal development modules."
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2013",
+        "title": "Industrial Prize (Hilti Group)",
+        "description": "Best team implementation of agile development practices and software."
+      },
+      {
+        "yearStarted": "2013",
+        "yearEnded": "2013",
+        "title": "School of Computer Science Prize",
+        "description": "Best team dynamics and project handling."
+      }
+    ]
+  }

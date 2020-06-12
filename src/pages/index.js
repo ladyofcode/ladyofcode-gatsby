@@ -1,21 +1,28 @@
 import React from "react"
-import { Link } from "gatsby"
+import Particles from 'react-particles-js';
+import ParticleJSON from "./particlesjs-config.json"
 
-import Layout from "../components/layout"
-import Image from "../components/image"
+import homeStyles from "./home.module.scss"
+
+import Header from "../components/header"
 import SEO from "../components/seo"
+import "../components/global.module.scss"
 
 const IndexPage = () => (
-  <Layout>
+  <>
+    <Particles className={homeStyles.particles} 
+                  params={ParticleJSON} />
+      
+    <Header />
+      
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+    <div className={homeStyles.banner}>
+
+      <h1 className={homeStyles.title}>Tabs - @ladyofcode</h1>
+      <h2>Developer | Designer | Nerd</h2>
+
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
+  </>
 )
 
 export default IndexPage

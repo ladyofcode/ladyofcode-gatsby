@@ -1,0 +1,56 @@
+@mixin for-phone-only {
+    @media (max-width: 599px) { @content; }
+}
+@mixin for-tablet-portrait-up {
+    @media (min-width: 600px) { @content; }
+}
+
+@mixin for-tablet-landscape-up {
+    @media (min-width: 900px) { @content; }
+}
+
+@mixin for-desktop-up {
+    @media (min-width: 1200px) { @content; }
+}
+
+@mixin for-big-desktop-up {
+    @media (min-width: 1800px) { @content; }
+}
+
+/*Custom global CSS*/
+
+html{
+    // background: #274d61;
+    color: #fff;
+    font-family: Oxygen;
+}
+
+a{
+    color: rgb(18, 163, 182);
+    text-decoration: none;    
+}
+
+h1{
+    font-size: 3em;
+    font-family: Oxygen;
+    font-weight: 300;
+    margin-bottom: 0.5em;
+}
+
+h2{
+    font-size: 2em;
+    font-family: Oxygen;
+    font-weight: 300;
+    margin-bottom: 0.5em;
+}
+
+p{
+    margin-bottom: 1em;
+}
+
+input[type="text"]{
+    padding: 1em;
+    margin-bottom: 1em;
+    min-width: 300px;
+    border: 0;
+}

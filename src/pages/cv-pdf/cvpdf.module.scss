@@ -1,0 +1,234 @@
+.viewer{
+    width: 100%;
+    height: 100vh;
+}
+
+// .pdf-body{
+//     // width:210mm;
+//     // height: 297mm;
+//     display: flex;
+//     flex-direction: row;
+//     // font-family: 'Open Sans', sans-serif;
+//     // font-size: 0.78rem;
+// }
+  
+  hr{
+    border: none;
+    background: #D7D6C4;
+    height: 1px;
+  }
+  
+//   .aside{
+//     max-width: 350px;
+//     background: #2D2D2D;
+//     color: #D7D6C4;
+//     padding: 10px 20px;
+//     font-size: 0.75rem;
+//   }
+  
+//   .aside > * {
+//     margin-bottom: 20px;
+//   }
+  
+//   .aside h1{
+//     font-weight: 400;
+//     font-size: 1.8em;
+//     text-transform: uppercase;
+//   }
+  
+//   .aside:nth-child(2){
+//     padding-bottom: 10px;
+//   }
+  
+//   .h2{
+//     width: 100%;
+//     border-bottom: 1px solid #2E9994;
+//     line-height: 0.1em;
+//     margin: inherit 20px;
+//     color: #2E9994;
+//   }
+  
+  .aside h2{
+    color: #D7D6C4;
+    border-bottom: 1px solid #D7D6C4;
+  }
+  
+  .h2 span{
+    background: #fff;
+    padding-right: 10px;
+  }
+  
+  .aside h2 span{
+    background: #2D2D2D;
+  }
+  
+  .ion-icon{
+    display: inline-block;
+    border-radius: 60px;
+    background-color: #2E9994;
+    padding: 0.2em 0.2em;
+    margin-right: 5px;
+    font-size: 20px;
+  }
+  
+  
+  .a {
+    color: #D7D6C4;
+    vertical-align: middle;
+    text-decoration: none;
+  }
+
+  /**/
+  
+//   .main{
+//     padding: 15px 15px;
+//     background: #fff;
+//   }
+  
+  
+//   .main  > section {
+//     padding: 10px 10px;
+//   }
+  
+//   #tagline{
+//     font-weight: 300;
+//     font-size: 0.8rem;
+//   }
+  
+//   .box{
+//     background: #353535;
+//     padding: 5px 10px;
+//   }
+  
+  .box > div {
+    display: flex;
+    align-items: center;
+    margin: 10px auto;
+  }
+  
+//   #general a span, #personal a span{
+//     vertical-align: middle;
+//   }
+  
+  #general span, #general a span ion-icon, #personal a span ion-icon{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+//   #general div:first-child{
+//     color: #2E9994;
+//   }
+  
+  #caption{
+    text-transform: uppercase;
+    padding-bottom: 15px;
+  }
+  
+  #skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  #skills{
+    position: relative;
+  }
+  
+  #skills div:first-of-type, #skills div:nth-of-type(2){
+    border-bottom: dotted;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  }
+  
+  #skills ul, #projects ul{
+    list-style: none;
+    padding-left: 0;
+    margin: 2px;
+  }
+  
+  #skills ul li{
+    padding-bottom: 5px;
+    font-weight: 100;
+    font-size: 0.95em;
+  }
+  
+  #skills ul:nth-child(odd){
+    text-align: left;
+    float: left;
+  }
+  
+  #skills ul:nth-child(even){
+    text-align: right;
+    float: right;
+  }
+  
+  #seven-years, #three-years, #six-months{
+    color: #D7D6C4;
+    position: absolute;
+    z-index: 10;
+    font-size: 0.9em;
+    font-weight: bold;
+  }
+  
+  #seven-years{
+    padding-left: 75px;
+    padding-top: 15px;
+  }
+  
+  #three-years{
+    padding-left: 75px;
+    padding-top: 100px;
+  }
+  
+  #six-months{
+    padding-left: 75px;
+    padding-top: 230px;
+  }
+  
+  #soft-skills > p{
+    margin-top: 0px;
+  }
+  
+  .entry{
+    padding-bottom: 5px;
+  }
+  
+  .entry div{
+    display: inline-block;
+  }
+  
+  .entry div:first-child {
+    width: 80px;
+    font-weight: 300;
+  }
+  
+  .entry :nth-child(2) {
+    font-weight: bold;
+    padding-right: 5px;
+  }
+  
+  .entry span:last-of-type{
+    float: right;
+    font-weight: 300;
+    color: #C4C2C2;
+    font-size: 0.65rem;
+  }
+  
+  .entry p:last-child{
+    padding: 0;
+    margin: 0;
+    margin-left: 80px;
+  }
+  
+  .position{
+    font-style: italic;
+  }
+  
+  @media print {
+    body{
+        width: 210mm;
+        height: 297mm;
+        margin: 30mm 45mm 30mm 45mm;
+        /* change the margins as you want them to be. */
+   }
+  }

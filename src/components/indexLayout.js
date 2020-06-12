@@ -7,18 +7,31 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import "./reset.module.scss"
-import "./global.module.scss"
-import layoutStyles from "./layout.module.scss"
+import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import Footer from "./footer"
+import "./global.module.scss"
+import layoutStyles from "./layout.module.scss"
 
 
 const Layout = ({ children }) => {
+  const data = useStaticQuery(graphql`
+    query siteTitleQueryAndSiteTitleQuery {
+      site {
+        siteMetadata {
+          title
+          menuLinks{
+            name
+            link
+          }
+        }
+      }
+    }
+  `)
 
   return (
-    <div className={layoutStyles.outerContainer}>
+    <div className={layoutStyles.outerContainerFull}>
       <Header />
       <main className={layoutStyles.main}>
         {children}
