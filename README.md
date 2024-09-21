@@ -1,4 +1,9 @@
+# Ladyofcode: Gatsby site
+
+This was the code for my ladyfcode.com Gatsby site aeons ago. My site is now built with Svelte.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
